@@ -1,1 +1,2 @@
-# masterjs
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
